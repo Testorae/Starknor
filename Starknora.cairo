@@ -16,3 +16,4 @@ mod HelloStarknet {
 }
 
 // Adding more context maybe
+// Hello starknet is nice

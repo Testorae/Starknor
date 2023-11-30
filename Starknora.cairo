@@ -14,6 +14,4 @@ mod HelloStarknet {
         Hello(caller, message);
     }
 
-
-WHat if I dev this ? Now I need to put in repository
 }

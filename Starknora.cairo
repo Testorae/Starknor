@@ -15,5 +15,5 @@ mod HelloStarknet {
     }
 }
 
-// Adding more context maybe
+// Adding more context maybe. Or jusr checking
 

@@ -1,4 +1,4 @@
 # Readme Starknor
 
 
-Hey, What do you think about this contract ?
+Hi, make sure to know what you're executing

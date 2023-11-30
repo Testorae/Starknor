@@ -1,4 +1,4 @@
 # Readme Starknor
 
 
-Hi, make sure to know what you're executing
+Hi, make sure to know what you're executing, right

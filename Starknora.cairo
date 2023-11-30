@@ -14,4 +14,5 @@ mod HelloStarknet {
         Hello(caller, message);
     }
 
+// Adding more context maybe
 }

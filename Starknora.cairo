@@ -15,8 +15,5 @@ mod HelloStarknet {
     }
 
 
-'Hi i am trying to do something
-
-
-Just adding more content I guesss
+No I know what I do
 }
